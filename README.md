@@ -7,5 +7,5 @@ https://www.linkedin.com/learning/javascript-essential-training-3/return-values-
 The purpose of this git repository is to show my upskilling for javascript.
 
 
-## What Will this income?
+## What will this include?
 to be continues.....
