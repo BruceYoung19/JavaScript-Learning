@@ -8,4 +8,7 @@ The purpose of this git repository is to show my upskilling for javascript.
 
 
 ## What will this include?
-to be continues.....
+- Calculate
+
+Will still add more...
+ 
